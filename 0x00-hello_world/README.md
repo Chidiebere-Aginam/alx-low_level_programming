@@ -1,1 +1,1 @@
-Executable name
+C program that prints new line

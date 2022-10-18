@@ -1,4 +1,4 @@
-Write a function that computes the absolute value of an integer.
+Write a function that prints the last digit of a number.
 
 
 

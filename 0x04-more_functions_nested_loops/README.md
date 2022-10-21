@@ -1,3 +1,5 @@
-Write a function that draws a diagonal line on the terminal.
+Write a program that prints the numbers from 1 to 100
+
+
 
 

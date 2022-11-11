@@ -1,1 +1,1 @@
-Write a function that concatenates two strings.
+Write a function that allocate memory for an array using malloc.

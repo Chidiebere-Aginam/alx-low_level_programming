@@ -1,1 +1,1 @@
-Write a function that allocate memory for an array using malloc.
+Write a function that creates an array of integers.
